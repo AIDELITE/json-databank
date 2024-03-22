@@ -1,0 +1,29 @@
+{
+    "contacts":[
+        {
+            "id":"1",
+            "name":"Walubi Hendry",
+            "email":"Hendry@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"makenzi leo",
+            "email":"leonard@gmail.com"
+        },
+        {
+            "id":"3",
+            "name":"mukutar jasen",
+            "email":"mukutar@gmail.com"
+        },
+        {
+            "id":"4",
+            "name":"kafu debark",
+            "email":"kafud@gmail.com"
+        },
+        {
+            "id":"5",
+            "name":"kalanga boyb",
+            "email":"kalanga@gmail.com"
+        }
+    ]
+}
