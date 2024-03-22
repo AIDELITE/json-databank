@@ -1,29 +1,49 @@
 {
-    "contacts":[
-        {
-            "id":"1",
-            "name":"Walubi Hendry",
-            "email":"Hendry@gmail.com"
-        },
-        {
-            "id":"2",
-            "name":"makenzi leo",
-            "email":"leonard@gmail.com"
-        },
-        {
-            "id":"3",
-            "name":"mukutar jasen",
-            "email":"mukutar@gmail.com"
-        },
-        {
-            "id":"4",
-            "name":"kafu debark",
-            "email":"kafud@gmail.com"
-        },
-        {
-            "id":"5",
-            "name":"kalanga boyb",
-            "email":"kalanga@gmail.com"
-        }
-    ]
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Walubi Hendry",
+      "email": "Hendry@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "makenzi leo",
+      "email": "leonard@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "mukutar jasen",
+      "email": "mukutar@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "kafu debark",
+      "email": "kafud@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "kalanga boyb",
+      "email": "kalanga@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Williams david",
+      "email": "wildavi@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Ethan wale",
+      "email": "waleth@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "jane doe",
+      "email": "doejane@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "will smalling",
+      "email": "smalling@gmail.com"
+    }
+  ]
 }
